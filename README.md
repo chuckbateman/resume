@@ -1,5 +1,5 @@
 # resume
 These notebooks are meant to display a working knowledge of python.
 
-Employees data is from kaggle
-https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset
+Housing Price prediction data
+https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data
